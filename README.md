@@ -19,5 +19,5 @@ The Quality and Resource Modeling Language (QRML) is a domain-specific language 
 
 ## Getting started
 Two manuals:
-- Manual [Creating a Domain Specific Language (DSL) with Xtext in Eclipse](http://www.cs.ru.nl/J.Hooman/DSL/Creating_a_Domain_Specific_Language_(DSL)_with_Xtext.pdf).
+- [Creating a Domain Specific Language (DSL) with Xtext in Eclipse](http://www.cs.ru.nl/J.Hooman/DSL/Creating_a_Domain_Specific_Language_(DSL)_with_Xtext.pdf).
 - [Advanced Xtext Manual on Modularity](http://www.cs.ru.nl/J.Hooman/DSL/AdvancedXtextManual.pdf)
