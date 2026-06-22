@@ -1,5 +1,7 @@
 # Domain-specific languages
 
+A domain-specific language (DSL) is a specialized programming or specification language designed to solve problems within a particular domain rather than serving as a general-purpose language. The story of DSLs began as industries sought simpler ways to express complex domain knowledge, leading to languages such as SQL for databases, HTML for web documents, and MATLAB for scientific computing. By providing vocabulary and abstractions that closely match real-world tasks, DSLs allow domain experts to work more efficiently and reduce the gap between business requirements and technical implementation. Over time, DSLs have become an important part of software engineering because they improve productivity, readability, and maintainability, enabling developers to focus on solving domain problems instead of dealing with low-level programming details.
+
 ## aDSL
 See: [aDSL](https://github.com/fatvdbergdotus/adsl)
 
