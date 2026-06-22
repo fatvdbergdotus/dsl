@@ -14,3 +14,8 @@ The `idsl` (Imaging DSL) project is a domain-specific language and toolchain for
 See: [QRML](https://qrml.org/) (external link)
 
 The Quality and Resource Modeling Language (QRML) is a domain-specific language and toolset for modeling, analyzing, and optimizing quality and resource management in complex cyber-physical systems. QRML enables engineers to describe heterogeneous hardware and software components, their configurations, resource consumption and provision, functionality, and quality attributes such as performance, latency, and energy usage within a hierarchical component model. Based on a formal interface-modeling framework, the language supports automated reasoning, constraint solving, multi-objective optimization, configuration exploration, visualization, documentation generation, and the generation of monitoring artifacts, helping designers identify optimal system configurations that satisfy resource, quality, and operational constraints in embedded and cyber-physical systems.
+
+## Getting started
+Two manuals:
+- Manual [Creating a Domain Specific Language (DSL) with Xtext in Eclipse](http://www.cs.ru.nl/J.Hooman/DSL/Creating_a_Domain_Specific_Language_(DSL)_with_Xtext.pdf).
+- [Advanced Xtext Manual on Modularity](http://www.cs.ru.nl/J.Hooman/DSL/AdvancedXtextManual.pdf)
