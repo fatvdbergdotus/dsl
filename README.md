@@ -23,4 +23,4 @@ Two manuals:
 - [Advanced Xtext Manual on Modularity](http://www.cs.ru.nl/J.Hooman/DSL/AdvancedXtextManual.pdf)
 
 Papers:
-- [Grammar prompting for DSLs](NeurIPS-2023-grammar-prompting-for-domain-specific-language-generation-with-large-language-models-Paper-Conference.pdf)
+- [Grammar prompting for DSLs (Bailin Wang et. al)](NeurIPS-2023-grammar-prompting-for-domain-specific-language-generation-with-large-language-models-Paper-Conference.pdf)
